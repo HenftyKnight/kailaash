@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://henftyknight.github.io/kailaash/categories/</loc>
+    <loc>https://henftyknight.github.io/kailaash/posts/init-configuration/</loc>
+    <lastmod>2023-09-10T21:55:43-06:00</lastmod>
   </url><url>
     <loc>https://henftyknight.github.io/kailaash/</loc>
+    <lastmod>2023-09-10T21:55:43-06:00</lastmod>
+  </url><url>
+    <loc>https://henftyknight.github.io/kailaash/posts/</loc>
+    <lastmod>2023-09-10T21:55:43-06:00</lastmod>
+  </url><url>
+    <loc>https://henftyknight.github.io/kailaash/categories/</loc>
   </url><url>
     <loc>https://henftyknight.github.io/kailaash/tags/</loc>
   </url>
