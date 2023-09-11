@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://henftyknight.github.io/kailaash/</link>
+    <link>https://www.henftyknight.github.io/kailaash/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Sep 2023 21:55:43 -0600</lastBuildDate><atom:link href="https://henftyknight.github.io/kailaash/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2023 21:55:43 -0600</lastBuildDate><atom:link href="https://www.henftyknight.github.io/kailaash/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Init</title>
-      <link>https://henftyknight.github.io/kailaash/posts/init-configuration/</link>
+      <link>https://www.henftyknight.github.io/kailaash/posts/init-configuration/</link>
       <pubDate>Sun, 10 Sep 2023 21:55:43 -0600</pubDate>
       
-      <guid>https://henftyknight.github.io/kailaash/posts/init-configuration/</guid>
+      <guid>https://www.henftyknight.github.io/kailaash/posts/init-configuration/</guid>
       <description>Homeserver&amp;hellip;&amp;hellip; Finally giving it a shot.
 Proxmox Heimdall I do not know what I need on the homeserver so started with these 2. Proxmox ISO generation - Rufus, Balena Etcher, etc upto you Should have access to your router web portal (Extremely Important), more on this later. Lots of interesting guidesd to follow up - (Link) That&amp;rsquo;s pretty much it. Step 1 is easy. Step 2: i) Know you DEFAULT GATEWAY ii) Know you LAN IP RANGE (192.</description>
     </item>
